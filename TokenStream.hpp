@@ -3,21 +3,7 @@
 
 #include "Token.hpp"
 
-/************************************************************
- *  If you are looking at this, you should likely stop      *
- * doing so. You do not need to understand this in order to *
- * work with the Command class.                             *
- *                                                          *
- *  This class breaks up an input stream into its tokens    *
- *                                                          *
- * Here, I utilize a discrete structure known as a          *
- *   deterministic finite automata to "parse" input and     *
- *   figure out what it represents.                         * 
- *                                                          *
- * NOTE: on most compilers, this will generate warnings     *
- * about using chars as ints. These warnings can be         *
- * safely ignored.                                          *
- ************************************************************/
+
 
 
 class TokenStream

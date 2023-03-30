@@ -1,17 +1,7 @@
 #ifndef _TOKEN_HPP_
 #define _TOKEN_HPP_
 
-/************************************************************
- *  If you are looking at this, you should likely stop      *
- * doing so. You do not need to understand this in order to *
- * work with the Command class.                             *
- *                                                          *
- *  This class represents a single token                    *
- *                                                          *
- * NOTE: on most compilers, this will generate warnings     *
- * about using chars as ints. These warnings can be         *
- * safely ignored.                                          *
- ************************************************************/
+
 
 #include <iostream>
 #include <string>

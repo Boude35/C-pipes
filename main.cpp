@@ -8,9 +8,7 @@
 
 #include "Command.hpp"
 
-/*****************************************************
- *  Example usage of the Command class for project 1 *
- *****************************************************/
+
 
 //boolean that will make the program remember when there is a pipeout before a command
 bool input = false;
